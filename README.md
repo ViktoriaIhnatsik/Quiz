@@ -1,8 +1,14 @@
+Quiz
 
- Quiz
-- Din uppgift är att skriva en quiz-applikation. En quiz-applikation är ett frågesport-spel.
+ **JavaScript kurs**
+ 
+ >Uppgift:
+ 
+ Individuell inlämningsuppgift - Quiz
+ 
+- Uppgift är att skriva en quiz-applikation. En quiz-applikation är ett frågesport-spel.
 
-- Din applikation ska vara objektorienterad. Du ska visa att du kan skapa lämpliga klasser. 
+- Applikation ska vara objektorienterad. Du ska visa att du kan skapa lämpliga klasser. 
 - Quizet ska hålla reda på en spelare. Det ska hantera spelarens namn, spelarens poäng i den aktuella omgången.
 - Frågorna ska läsas in från https://quizapi.io/ som levererar ett resultat i JSON.
 
